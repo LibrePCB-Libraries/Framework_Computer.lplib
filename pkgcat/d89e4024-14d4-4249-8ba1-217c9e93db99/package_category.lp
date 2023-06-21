@@ -1,0 +1,10 @@
+(librepcb_package_category d89e4024-14d4-4249-8ba1-217c9e93db99
+ (name "Framework Computer")
+ (description "Custom packages by Framework Computer.")
+ (keywords "framework,computer")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2023-06-21T10:27:53Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
