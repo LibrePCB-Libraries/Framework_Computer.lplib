@@ -1,0 +1,10 @@
+(librepcb_library 0755ceaa-35fb-4580-9288-57219438f908
+ (name "Framework Computer")
+ (description "Framework computer parts (unofficial).")
+ (keywords "framework,computer,laptop,notebook")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2023-06-21T10:14:40Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Framework_Computer.lplib")
+)
