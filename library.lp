@@ -7,4 +7,5 @@
  (created 2023-06-21T10:14:40Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Framework_Computer.lplib")
+ (manufacturer "")
 )
